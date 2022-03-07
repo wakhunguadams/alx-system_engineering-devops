@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello, world\n" 1>e.txt
+echo "hello, world" >e.txt
